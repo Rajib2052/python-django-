@@ -1,0 +1,12 @@
+Item,Quantity,Price
+Product A,2,10.99
+Product B,3,5.99
+,,
+Subtotal,,39.95
+Taxes,,3.9950000000000006
+Total,,43.945
+,,
+Customer Name:,,John Doe
+Address:,,123 Main St
+Phone:,,555-1234
+Email:,,john.doe@example.com
